@@ -1,28 +1,34 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Bohdan Bozhenko</h1>
-<h3 align="center">A passionate Backend student | Computing | Software Engineering</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+<h3 align="center">A passionate student from Ukraine | Computing | Software Engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bogdusik&label=Profile%20views&color=0e75b6&style=flat" alt="bogdusik" /> </p>
+<img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/thumbnails/023/265/648/original/web-development-work-programmer-techniques-and-website-coding-on-augmented-reality-interface-screen-3d-vector-animation-with-moving-elements-video.jpg">
 
-- 🔭 I’m currently working on **Hangman Game - Java Swing**
-
-- 🌱 I’m currently learning **Java Frameworks**
-
-- 💬 Ask me about **Java, Java-Script, PHP, C#, C++ HTML, CSS, Android**
-
-- 📫 How to reach me **bogdyn6@gmail.com**
-
-- ⚡ Fun fact **I am cool and passionate guy**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/bogdus1kk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bogdus1kk" height="30" width="40" /></a>
-<a href="https://discord.gg/773150005039988766" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="773150005039988766" height="30" width="40" /></a>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=bogdusik&label=Profile%20views&color=0e75b6&style=flat" alt="bogdusik" /> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+- 🔭 I’m currently working on **Hangman Game - Java Swing**
+- 🌱 I’m currently learning **Java Frameworks**
+- 💬 Ask me about **Java, JavaScript, PHP, C#, C++, HTML, CSS, Android**
+- 📫 How to reach me **bogdyn6@gmail.com**
+- ⚡ Fun fact **I am a cool and passionate guy**
+
+<br><br>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://instagram.com/bogdus1kk" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bogdus1kk" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/773150005039988766" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="773150005039988766" height="30" width="40" />
+  </a>
+</p>
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
   </a> 
@@ -73,8 +79,16 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bogdusik&show_icons=true&locale=en&layout=compact" alt="bogdusik" /></p>
+<br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bogdusik&show_icons=true&locale=en" alt="bogdusik" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bogdusik&show_icons=true&locale=en&layout=compact" alt="bogdusik" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bogdusik&" alt="bogdusik" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bogdusik&show_icons=true&locale=en" alt="bogdusik" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bogdusik&" alt="bogdusik" />
+</p>
