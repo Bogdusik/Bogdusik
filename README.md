@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **Java Frameworks**
 - 💬 Ask me about **Java, JavaScript, PHP, C#, C++, HTML, CSS, Android**
 - 📫 How to reach me **bogdyn6@gmail.com**
-- ⚡ Fun fact **I am a cool and passionate guy**
+- ⚡ Fun fact **I love learning new things!**
 
 <br><br>
 
