@@ -10,7 +10,7 @@
 </p>
 
 - 🔭 I’m currently working on **Hangman Game - Java Swing**
-- 🌱 I’m currently learning **Java Frameworks**
+- 🌱 I’m currently learning **Java Swing Framework**
 - 💬 Ask me about **Life, hobbies, activities 🧠**
 - 📫 How to reach me **bogdyn6@gmail.com**
 - ⚡ Fun fact **I love learning new things!**
