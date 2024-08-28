@@ -11,7 +11,7 @@
 
 - 💻 Core Stack: **Java, HTML/CSS.** Mainly focused on Backend
 - 🔥 Interested in Network Security & Games as a Service
-- 📫 How to reach me **bogdyn6@gmail.com**
+- 📫 How to reach me: **bogdyn6@gmail.com**
 
 <br><br>
 
