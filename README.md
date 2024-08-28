@@ -9,11 +9,9 @@
   <img src="https://komarev.com/ghpvc/?username=bogdusik&label=Profile%20views&color=0e75b6&style=flat" alt="bogdusik" /> 
 </p>
 
-- 🔭 I’m currently working on **Hangman Game - Java Swing**
-- 🌱 I’m currently learning **Java Swing Framework**
-- 💬 Ask me about **Life, hobbies, activities 🧠**
+- 💻 Core Stack: **Java, HTML/CSS.** Mainly focused on Backend
+- 🔥 Interested in Network Security & Games as a Service
 - 📫 How to reach me **bogdyn6@gmail.com**
-- ⚡ Fun fact **I love learning new things!**
 
 <br><br>
 
