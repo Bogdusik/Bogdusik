@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm Bohdan Bozhenko</h1>
+<h1 align="center">Hey 👋, I'm Bohdan</h1>
 <h3 align="center">A passionate student from Ukraine | Computing | Software Engineering</h3>
 
 <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/thumbnails/023/265/648/original/web-development-work-programmer-techniques-and-website-coding-on-augmented-reality-interface-screen-3d-vector-animation-with-moving-elements-video.jpg">
