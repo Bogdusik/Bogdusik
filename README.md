@@ -1,5 +1,5 @@
 💻 Core stack: JavaScript, Node.js, RESTful APIs, AWS<br>
-🎯 Focus: Full-stack development with emphasis on scalable backends and secure architectures<br>
+🎯 Focus: Full-Stack development with emphasis on scalable backends and secure architectures<br>
 🔥 Interested in API security hardening & Cloud security (AWS)
 - 📨 [Email me](bogdyn13@proton.me)
 - 🥷🏼 [Twitter](https://x.com/bogdus1kk)
