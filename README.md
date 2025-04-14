@@ -2,7 +2,7 @@
 🎯 Focus: Full-Stack development with emphasis on scalable backends and secure architectures<br>
 🔥 Interested in API security hardening & Cloud security (AWS)
 - 📨 [Email me](bogdyn6@gmail.com)
-- 🥷🏼 [Twitter](https://x.com/bogdus1kk)
+- 🥷🏼 [X](https://x.com/bogdus1kk)
 
   
 <p align="center">
