@@ -1,9 +1,9 @@
 # Hi there, I'm Bohdan! 👋
 
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Computing+Student;Security+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
-  
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Computing+Student;Security+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
+
 </div>
 
 ## 🚀 About Me
@@ -48,10 +48,10 @@
 ## 🔥 Featured Projects
 
 <div align="center">
-  
+
   [![Real-Time Chat](https://github-readme-stats.vercel.app/api/pin/?username=bogdusik&repo=Real-Time-Chat-Application&theme=tokyonight&hide_border=true)](https://github.com/Bogdusik/Real-Time-Chat-Application)
   [![CryptoChart App](https://github-readme-stats.vercel.app/api/pin/?username=bogdusik&repo=CryptoChartApp&theme=tokyonight&hide_border=true)](https://github.com/Bogdusik/CryptoChartApp)
-  
+
   [![Personal Website](https://github-readme-stats.vercel.app/api/pin/?username=bogdusik&repo=Personal-Web-Site&theme=tokyonight&hide_border=true)](https://github.com/Bogdusik/Personal-Web-Site)
   [![CoderType](https://github-readme-stats.vercel.app/api/pin/?username=bogdusik&repo=CoderType&theme=tokyonight&hide_border=true)](https://github.com/Bogdusik/CoderType)
 
@@ -60,16 +60,23 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bogdusik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Bogdusik's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=bogdusik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bogdusik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Bogdusik's GitHub Stats"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bogdusik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bogdusik&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+  <img src="https://github-readme-streak-stats.demolab.com/?user=bogdusik&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bogdusik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=bogdusik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=8" alt="GitHub Trophies"/>
+
 </div>
 
 ## 🏆 Achievements & Certifications
@@ -93,17 +100,18 @@ const currentGoals = {
 ## 🤝 Let's Connect!
 
 <div align="center">
-  
+
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bogdyn6@gmail.com)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/bogdus1kk)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bohdan-bozhenko-8708552a9)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://personal-website-bogdusik.vercel.app)
   [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/BGDSK/)
-  
+
 </div>
 
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=bogdusik&color=blueviolet&style=for-the-badge)
-  
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=bogdusik&color=00D4AA&style=for-the-badge)
+
 </div>
+
