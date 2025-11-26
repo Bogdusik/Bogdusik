@@ -61,20 +61,6 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bogdusik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Bogdusik's GitHub Stats"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bogdusik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-  <img src="https://github-readme-streak-stats.demolab.com/?user=bogdusik&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
   <img src="https://github-profile-trophy.vercel.app/?username=bogdusik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=8" alt="GitHub Trophies"/>
 
 </div>
