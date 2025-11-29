@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-💻 **Core Stack:** JavaScript, Java, Python, React, Spring Boot, Node.js, PostgreSQL  
+💻 **Core Stack:** JavaScript, React, RESTful APIs, PostgreSQL  
 🎯 **Focus:** Full-Stack development with emphasis on scalable backends and secure architectures  
 🔥 **Passionate About:** API security hardening, Cloud security (AWS), Real-time applications  
 🎓 **Currently:** Computing Student at Glasgow Caledonian University  
