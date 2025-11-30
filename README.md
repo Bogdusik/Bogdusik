@@ -52,7 +52,7 @@
 [![Real-Time Chat](https://github-readme-stats.vercel.app/api/pin/?username=bogdusik&repo=Real-Time-Chat-Application&theme=tokyonight&hide_border=true)](https://github.com/Bogdusik/Real-Time-Chat-Application)
 [![CryptoChart App](https://github-readme-stats.vercel.app/api/pin/?username=bogdusik&repo=CryptoChartApp&theme=tokyonight&hide_border=true)](https://github.com/Bogdusik/CryptoChartApp)
 
-[![Programming Helper AI](https://github-readme-stats.vercel.app/api/pin/?username=bogdusik&repo=programming-helper-ai&theme=tokyonight&hide_border=true)](https://github.com/Bogdusik/programming-helper-ai)
+[![Programming Helper AI](https://github-readme-stats.vercel.app/api/pin/?username=bogdusik&repo=programming-helper-ai&theme=tokyonight&hide_border=true)](https://github.com/bogdusik/programming-helper-ai)
 [![CoderType](https://github-readme-stats.vercel.app/api/pin/?username=bogdusik&repo=CoderType&theme=tokyonight&hide_border=true)](https://github.com/Bogdusik/CoderType)
 
 </div>
