@@ -49,11 +49,11 @@
 
 <div align="center">
 
-  [![Real-Time Chat](https://github-readme-stats.vercel.app/api/pin/?username=bogdusik&repo=Real-Time-Chat-Application&theme=tokyonight&hide_border=true)](https://github.com/Bogdusik/Real-Time-Chat-Application)
-  [![CryptoChart App](https://github-readme-stats.vercel.app/api/pin/?username=bogdusik&repo=CryptoChartApp&theme=tokyonight&hide_border=true)](https://github.com/Bogdusik/CryptoChartApp)
+[![Real-Time Chat](https://github-readme-stats.vercel.app/api/pin/?username=bogdusik&repo=Real-Time-Chat-Application&theme=tokyonight&hide_border=true)](https://github.com/Bogdusik/Real-Time-Chat-Application)
+[![CryptoChart App](https://github-readme-stats.vercel.app/api/pin/?username=bogdusik&repo=CryptoChartApp&theme=tokyonight&hide_border=true)](https://github.com/Bogdusik/CryptoChartApp)
 
-  [![Personal Website](https://github-readme-stats.vercel.app/api/pin/?username=bogdusik&repo=Personal-Web-Site&theme=tokyonight&hide_border=true)](https://github.com/Bogdusik/Personal-Web-Site)
-  [![CoderType](https://github-readme-stats.vercel.app/api/pin/?username=bogdusik&repo=CoderType&theme=tokyonight&hide_border=true)](https://github.com/Bogdusik/CoderType)
+[![Programming Helper AI](https://github-readme-stats.vercel.app/api/pin/?username=bogdusik&repo=programming-helper-ai&theme=tokyonight&hide_border=true)](https://github.com/Bogdusik/programming-helper-ai)
+[![CoderType](https://github-readme-stats.vercel.app/api/pin/?username=bogdusik&repo=CoderType&theme=tokyonight&hide_border=true)](https://github.com/Bogdusik/CoderType)
 
 </div>
 
