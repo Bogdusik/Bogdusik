@@ -16,52 +16,50 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-
-### Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-
-</div>
+💻 **Languages:** JavaScript, Java, Python, HTML5, CSS3, SQL  
+⚛️ **Frameworks & Libraries:** React, Spring Boot, Node.js, .NET  
+🗄️ **Databases & Cloud:** PostgreSQL, MySQL, Amazon AWS  
+🔧 **Tools & Technologies:** Git, Docker, Jenkins, Apache Maven
 
 ## 🔥 Featured Projects
 
-<div align="center">
+### 🤖 Programming Helper AI
+An AI-powered web application that helps learners understand programming concepts faster through real-time explanations, contextual code suggestions, and structured practice tasks. Designed with a scalable Next.js architecture, secure authentication, and analytics to keep users engaged.
 
-[![Real-Time Chat](https://github-readme-stats.vercel.app/api/pin/?username=bogdusik&repo=Real-Time-Chat-Application&theme=tokyonight&hide_border=true)](https://github.com/Bogdusik/Real-Time-Chat-Application)
-[![CryptoChart App](https://github-readme-stats.vercel.app/api/pin/?username=bogdusik&repo=CryptoChartApp&theme=tokyonight&hide_border=true)](https://github.com/Bogdusik/CryptoChartApp)
+**🛠️ Technologies:** Next.js, TypeScript, Tailwind CSS, OpenAI API  
+**🔗 Links:** [View Repository](https://github.com/bogdusik/programming-helper-ai) • [Live Demo](https://programming-helper-ai.vercel.app)
 
-[![Programming Helper AI](https://github-readme-stats.vercel.app/api/pin/?username=bogdusik&repo=programming-helper-ai&theme=tokyonight&hide_border=true)](https://github.com/bogdusik/programming-helper-ai)
-[![CoderType](https://github-readme-stats.vercel.app/api/pin/?username=bogdusik&repo=CoderType&theme=tokyonight&hide_border=true)](https://github.com/Bogdusik/CoderType)
+---
 
-</div>
+### 💬 Real-Time Chat Application
+A comprehensive full-stack chat application built with Spring Boot and React, featuring real-time messaging capabilities using WebSocket (STOMP), user authentication, and a responsive interface. The application ensures seamless user experience with PostgreSQL for reliable data storage and message persistence.
+
+**🛠️ Technologies:** Spring Boot, React, PostgreSQL, WebSocket (STOMP)  
+**🔗 Links:** [View Repository](https://github.com/Bogdusik/Real-Time-Chat-Application)
+
+---
+
+### 📊 CryptoChartApp
+A desktop application for real-time cryptocurrency price tracking and visualization using Java and external APIs. The application demonstrates skills in external API integration, data processing, and desktop application development with interactive charts using JFreeChart.
+
+**🛠️ Technologies:** Java, CoinMarketCap API, JFreeChart  
+**🔗 Links:** [View Repository](https://github.com/Bogdusik/CryptoChartApp)
+
+---
+
+### ⌨️ CoderType - Speed Typing Game
+An interactive game designed to improve coding speed and accuracy. Features include a timer, performance metrics (accuracy, speed), and replay functionality. Built with vanilla JavaScript to demonstrate core programming skills.
+
+**🛠️ Technologies:** JavaScript, HTML5, CSS3  
+**🔗 Links:** [View Repository](https://github.com/Bogdusik/CoderType) • [Live Demo](https://coder-type-bogdus1k.vercel.app)
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=bogdusik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=8" alt="GitHub Trophies"/>
+<a href="https://github.com/bogdusik">
+  <img src="https://github-profile-trophy.vercel.app/?username=bogdusik&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+</a>
 
 </div>
 
@@ -71,17 +69,6 @@
 - 🌐 **Cisco Networking Academy** - Networking Essentials (2023)
 - 💻 **Junior Bachelor's** in Software Engineering (2023)
 - 🚗 **Full UK Driving Licence** (2024)
-
-## 📈 Current Focus
-
-```javascript
-const currentGoals = {
-  learning: ["Docker & Kubernetes", "AWS Cloud Solutions", "Microservices"],
-  building: ["Real-time Applications", "Secure APIs", "Scalable Backends"],
-  exploring: ["DevOps Practices", "Cloud Security", "System Design"],
-  seeking: "Entry-level Software Developer Position"
-};
-```
 
 ## 🤝 Let's Connect!
 
