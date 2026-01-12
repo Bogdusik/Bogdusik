@@ -39,11 +39,11 @@ A comprehensive full-stack chat application built with Spring Boot and React, fe
 
 ---
 
-### 📊 CryptoChartApp
-A desktop application for real-time cryptocurrency price tracking and visualization using Java and external APIs. The application demonstrates skills in external API integration, data processing, and desktop application development with interactive charts using JFreeChart.
+### 📊 SkyTools
+iOS companion application for DJI drone pilots featuring real-time telemetry logging, interactive flight mapping, and comprehensive flight analytics. The application demonstrates skills in DJI Mobile SDK integration, streaming data processing, native iOS development with SwiftUI, and geospatial data visualization using MapKit.
 
-**🛠️ Technologies:** Java, CoinMarketCap API, JFreeChart  
-**🔗 Links:** [View Repository](https://github.com/Bogdusik/CryptoChartApp)
+**🛠️ Technologies:** Swift, SwiftUI, DJI Mobile SDK, MapKit, Core Data  
+**🔗 Links:** [View Repository](https://github.com/Bogdusik/SkyTools)
 
 ---
 
