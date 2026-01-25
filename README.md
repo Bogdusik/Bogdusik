@@ -31,6 +31,13 @@ An AI-powered web application that helps learners understand programming concept
 
 ---
 
+### 💬 Personal PC Assistant
+Voice-controlled Windows assistant with natural language commands, speech recognition, AI-powered app search, system control (volume, brightness, Wi-Fi, screenshots) and premium cyberpunk GUI.  
+**🛠️ Stack:** Python, Faster Whisper, Ollama, PyQt6, PyCaw  
+**🔗** [Repo](https://github.com/Bogdusik/Personal-PC-Assistant)
+
+---
+
 ### 💬 Real-Time Chat Application
 A comprehensive full-stack chat application built with Spring Boot and React, featuring real-time messaging capabilities using WebSocket (STOMP), user authentication, and a responsive interface. The application ensures seamless user experience with PostgreSQL for reliable data storage and message persistence.
 
@@ -47,11 +54,19 @@ iOS companion application for DJI drone pilots featuring real-time telemetry log
 
 ---
 
-### ⌨️ CoderType - Speed Typing Game
-An interactive game designed to improve coding speed and accuracy. Features include a timer, performance metrics (accuracy, speed), and replay functionality. Built with vanilla JavaScript to demonstrate core programming skills.
+### 🌐 Personal Web Site
+Interactive portfolio showcasing skills, projects & achievements with smooth animations, particle effects and coding challenges.  
+**🛠️ Stack:** HTML5, CSS3, JavaScript  
+**🔗** [Repo](https://github.com/Bogdusik/Personal-Web-Site) • [Live Demo](https://personal-website-bogdusik.vercel.app)
 
-**🛠️ Technologies:** JavaScript, HTML5, CSS3  
-**🔗 Links:** [View Repository](https://github.com/Bogdusik/CoderType) • [Live Demo](https://coder-type-bogdus1k.vercel.app)
+---
+
+### 🛩️ FLYVON
+Personal platform for drone & FPV owners: real-time flight tracking, telemetry analysis, danger zone warnings and post-flight insights.  
+**🛠️ Stack:** TypeScript  
+**🔗** [Repo](https://github.com/Bogdusik/FLYVON)
+
+---
 
 ## 📊 GitHub Analytics
 
