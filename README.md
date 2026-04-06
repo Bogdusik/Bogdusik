@@ -31,6 +31,14 @@ An AI-powered web application that helps learners understand programming concept
 
 ---
 
+### 🤖 AI-QA-Assistant
+AI-powered QA artifact generator with a human-in-the-loop review workflow, quality analysis and coverage tracking. Built with Next.js, Prisma, PostgreSQL, NextAuth, and OpenAI.
+
+**🛠️ Technologies:** Next.js, Prisma, PostgreSQL, NextAuth, OpenAI API  
+**🔗 Links:** [View Repository](https://github.com/Bogdusik/AI-QA-Assistant) • [Live Demo](https://ai-qa-assistant-lyart.vercel.app/)
+
+---
+
 ### 💬 Personal PC Assistant
 Voice-controlled Windows assistant with natural language commands, speech recognition, AI-powered app search, system control (volume, brightness, Wi-Fi, screenshots) and premium cyberpunk GUI.  
 **🛠️ Stack:** Python, Faster Whisper, Ollama, PyQt6, PyCaw  
