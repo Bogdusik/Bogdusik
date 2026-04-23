@@ -69,7 +69,7 @@ Interactive portfolio showcasing skills, projects & achievements with smooth ani
 
 ---
 
-### 🛩️ FLYVON
+### 🛩️ FLYON
 Personal platform for drone & FPV owners: real-time flight tracking, telemetry analysis, danger zone warnings and post-flight insights.  
 **🛠️ Stack:** TypeScript  
 **🔗** [Repo](https://github.com/Bogdusik/FLYON)
