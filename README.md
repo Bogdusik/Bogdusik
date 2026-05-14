@@ -9,10 +9,10 @@
 ## 🚀 About Me
 
 💻 **Core Stack:** Python, FastAPI, TypeScript, Next.js, React, PostgreSQL  
-🤖 **AI Focus:** Claude API (Anthropic), OpenAI — building real AI features, not demos  
-🎓 **Currently:** BSc (Hons) Computing — Glasgow Caledonian University, final year  
-🔐 **Background:** Cyber Security HNC — secure software design, vulnerability analysis  
-🌍 **Based in:** Dumfries, Scotland, UK — open to relocation
+🤖 **AI Focus:** Claude API (Anthropic), OpenAI - building real AI features, not demos  
+🎓 **Currently:** BSc (Hons) Computing - Glasgow Caledonian University, final year  
+🔐 **Background:** Cyber Security HNC - secure software design, vulnerability analysis  
+🌍 **Based in:** Dumfries, Scotland, UK - open to relocation
 
 ## 🛠️ Tech Stack
 
@@ -25,7 +25,7 @@
 
 ## 🔥 Featured Projects
 
-### 🔍 SearchWork — AI Job Tracker
+### 🔍 SearchWork - AI Job Tracker
 Personal job tracker for UK graduate roles. Upload your CV → Claude extracts skills → searches Adzuna + Reed → AI scores matches → track applications. Full production deployment.
 
 **🛠️ Stack:** FastAPI, Next.js 14, PostgreSQL, Claude API, Adzuna API, Reed API  
@@ -93,10 +93,10 @@ Personal platform for drone and FPV pilots: real-time flight tracking, telemetry
 
 ## 🏆 Achievements & Certifications
 
-- 🎓 **BSc (Hons) Computing** — Glasgow Caledonian University (in progress, final year)
+- 🎓 **BSc (Hons) Computing** - Glasgow Caledonian University (in progress, final year)
 - 🔐 **Higher National Certificate** in Cyber Security (2023)
-- 🌐 **Cisco Networking Academy** — Networking Essentials (2023)
-- 💻 **Junior Bachelor's** in Software Engineering — KHAI, Kharkiv (2023)
+- 🌐 **Cisco Networking Academy** - Networking Essentials (2023)
+- 💻 **Junior Bachelor's** in Software Engineering - KHAI, Kharkiv (2023)
 
 ## 🤝 Let's Connect!
 
