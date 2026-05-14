@@ -2,76 +2,81 @@
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Java-Script+Developer;Computing+Student;IT+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Python+%2B+TypeScript;AI-Powered+Applications;Building+Real+Products)](https://git.io/typing-svg)
 
 </div>
 
 ## 🚀 About Me
 
-💻 **Core Stack:** JavaScript, React, RESTful APIs, PostgreSQL  
-🎯 **Focus:** Full-Stack development with emphasis on scalable backends and secure architectures  
-🔥 **Passionate About:** API security hardening, Cloud security (AWS), Real-time applications  
-🎓 **Currently:** Computing Student at Glasgow Caledonian University  
-🌱 **Learning:** Docker, Kubernetes, Microservices, AWS Cloud Solutions
+💻 **Core Stack:** Python, FastAPI, TypeScript, Next.js, React, PostgreSQL  
+🤖 **AI Focus:** Claude API (Anthropic), OpenAI — building real AI features, not demos  
+🎓 **Currently:** BSc (Hons) Computing — Glasgow Caledonian University, final year  
+🔐 **Background:** Cyber Security HNC — secure software design, vulnerability analysis  
+🌍 **Based in:** Dumfries, Scotland, UK — open to relocation
 
 ## 🛠️ Tech Stack
 
-💻 **Languages:** JavaScript, Java, Python, HTML5, CSS3, SQL  
-⚛️ **Frameworks & Libraries:** React, Spring Boot, Node.js, .NET  
-🗄️ **Databases & Cloud:** PostgreSQL, MySQL, Amazon AWS  
-🔧 **Tools & Technologies:** Git, Docker, Jenkins, Apache Maven
+💻 **Languages:** Python, TypeScript, JavaScript, Java, SQL  
+⚛️ **Frontend:** Next.js 14, React, Tailwind CSS, Framer Motion  
+⚙️ **Backend:** FastAPI, SQLAlchemy 2.0 async, Spring Boot, Node.js / Express  
+🗄️ **Databases:** PostgreSQL, MySQL, MongoDB, SQLite  
+🤖 **AI / ML:** Claude API, OpenAI API, Ollama, Faster Whisper  
+🔧 **Tools:** Docker, Git, GitHub, Jenkins, AWS, Postman, VS Code
 
 ## 🔥 Featured Projects
 
-### 🤖 Programming Helper AI
-An AI-powered web application that helps learners understand programming concepts faster through real-time explanations, contextual code suggestions, and structured practice tasks. Designed with a scalable Next.js architecture, secure authentication, and analytics to keep users engaged.
+### 🔍 SearchWork — AI Job Tracker
+Personal job tracker for UK graduate roles. Upload your CV → Claude extracts skills → searches Adzuna + Reed → AI scores matches → track applications. Full production deployment.
 
-**🛠️ Technologies:** Next.js, TypeScript, Tailwind CSS, OpenAI API  
-**🔗 Links:** [View Repository](https://github.com/bogdusik/programming-helper-ai) • [Live Demo](https://programming-helper-ai.vercel.app)
-
----
-
-### 🤖 AI-QA-Assistant
-AI-powered QA artifact generator with a human-in-the-loop review workflow, quality analysis and coverage tracking. Built with Next.js, Prisma, PostgreSQL, NextAuth, and OpenAI.
-
-**🛠️ Technologies:** Next.js, Prisma, PostgreSQL, NextAuth, OpenAI API  
-**🔗 Links:** [View Repository](https://github.com/Bogdusik/AI-QA-Assistant) • [Live Demo](https://ai-qa-assistant-lyart.vercel.app/)
+**🛠️ Stack:** FastAPI, Next.js 14, PostgreSQL, Claude API, Adzuna API, Reed API  
+**🔗** [Repo](https://github.com/Bogdusik/SearchWork) • [Live Demo](https://searchwork-bogdusik.vercel.app)
 
 ---
 
-### 💬 Personal PC Assistant
-Voice-controlled Windows assistant with natural language commands, speech recognition, AI-powered app search, system control (volume, brightness, Wi-Fi, screenshots) and premium cyberpunk GUI.  
+### 🤖 AI QA Assistant
+AI-powered QA artifact generator with human-in-the-loop review workflow. Transforms requirements into test cases, checklists, bug report drafts, and API test ideas.
+
+**🛠️ Stack:** Next.js, Prisma, PostgreSQL, NextAuth, OpenAI API  
+**🔗** [Repo](https://github.com/Bogdusik/AI-QA-Assistant) • [Live Demo](https://ai-qa-assistant-lyart.vercel.app)
+
+---
+
+### 🖥️ Personal PC Assistant
+Voice-controlled Windows assistant with natural language commands. Local AI — everything runs on-device with Faster Whisper + Ollama. Cyberpunk GUI with animated waveform.
+
 **🛠️ Stack:** Python, Faster Whisper, Ollama, PyQt6, PyCaw  
 **🔗** [Repo](https://github.com/Bogdusik/Personal-PC-Assistant)
 
 ---
 
+### 🔐 LeakScanner
+Chrome extension that scans GitHub and GitLab repositories for secret leaks, API key exposure, and vulnerable dependencies. Security scoring, scan history, ROG Strix-themed UI.
+
+**🛠️ Stack:** Spring Boot, React, TypeScript, PostgreSQL, GitHub API, Snyk API  
+**🔗** [Repo](https://github.com/Bogdusik/LeakScanner)
+
+---
+
+### 🧠 Programming Helper AI
+AI-powered programming assistant — instant explanations, code analysis, structured learning tasks. Honours project at Glasgow Caledonian University.
+
+**🛠️ Stack:** Next.js, TypeScript, Tailwind CSS, OpenAI API  
+**🔗** [Repo](https://github.com/Bogdusik/Programming-Helper-AI) • [Live Demo](https://programming-helper-ai.vercel.app)
+
+---
+
 ### 💬 Real-Time Chat Application
-A comprehensive full-stack chat application built with Spring Boot and React, featuring real-time messaging capabilities using WebSocket (STOMP), user authentication, and a responsive interface. The application ensures seamless user experience with PostgreSQL for reliable data storage and message persistence.
+Full-stack chat app with real-time messaging via WebSocket (STOMP), user authentication, and message persistence.
 
-**🛠️ Technologies:** Spring Boot, React, PostgreSQL, WebSocket (STOMP)  
-**🔗 Links:** [View Repository](https://github.com/Bogdusik/Real-Time-Chat-Application)
-
----
-
-### 📊 SkyTools
-iOS companion application for DJI drone pilots featuring real-time telemetry logging, interactive flight mapping, and comprehensive flight analytics. The application demonstrates skills in DJI Mobile SDK integration, streaming data processing, native iOS development with SwiftUI, and geospatial data visualization using MapKit.
-
-**🛠️ Technologies:** Swift, SwiftUI, DJI Mobile SDK, MapKit, Core Data  
-**🔗 Links:** [View Repository](https://github.com/Bogdusik/SkyTools)
-
----
-
-### 🌐 Personal Web Site
-Interactive portfolio showcasing skills, projects & achievements with smooth animations, particle effects and coding challenges.  
-**🛠️ Stack:** HTML5, CSS3, JavaScript  
-**🔗** [Repo](https://github.com/Bogdusik/Personal-Web-Site) • [Live Demo](https://personal-website-bogdusik.vercel.app)
+**🛠️ Stack:** Spring Boot, React, PostgreSQL, WebSocket / STOMP  
+**🔗** [Repo](https://github.com/Bogdusik/Real-Time-Chat-Application)
 
 ---
 
 ### 🛩️ FLYON
-Personal platform for drone & FPV owners: real-time flight tracking, telemetry analysis, danger zone warnings and post-flight insights.  
-**🛠️ Stack:** TypeScript  
+Personal platform for drone and FPV pilots: real-time flight tracking, telemetry analysis, Betaflight integration, danger zone warnings, post-flight insights.
+
+**🛠️ Stack:** TypeScript, Node.js, Next.js, PostgreSQL, WebSocket  
 **🔗** [Repo](https://github.com/Bogdusik/FLYON)
 
 ---
@@ -88,19 +93,19 @@ Personal platform for drone & FPV owners: real-time flight tracking, telemetry a
 
 ## 🏆 Achievements & Certifications
 
-- 🎓 **Higher National Certificate** in Cyber Security (2023)
-- 🌐 **Cisco Networking Academy** - Networking Essentials (2023)
-- 💻 **Junior Bachelor's** in Software Engineering (2023)
-- 🚗 **Full UK Driving Licence** (2024)
+- 🎓 **BSc (Hons) Computing** — Glasgow Caledonian University (in progress, final year)
+- 🔐 **Higher National Certificate** in Cyber Security (2023)
+- 🌐 **Cisco Networking Academy** — Networking Essentials (2023)
+- 💻 **Junior Bachelor's** in Software Engineering — KHAI, Kharkiv (2023)
 
 ## 🤝 Let's Connect!
 
 <div align="center">
 
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bogdyn6@gmail.com)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/bogdus1kk)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bohdan-bozhenko-8708552a9)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://personal-website-bogdusik.vercel.app)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/bogdus1kk)
   [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/BGDSK/)
 
 </div>
@@ -110,4 +115,3 @@ Personal platform for drone & FPV owners: real-time flight tracking, telemetry a
   ![Profile Views](https://komarev.com/ghpvc/?username=bogdusik&color=00D4AA&style=for-the-badge)
 
 </div>
-
