@@ -118,7 +118,7 @@ Chrome extension that scans GitHub and GitLab repositories for secret leaks, API
 
 <div align="center">
 
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bogdyn13@proton.me)
+  [![Email](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:bogdyn13@proton.me)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bohdan-bozhenko-8708552a9)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://personal-website-bogdusik.vercel.app)
   [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bogdus1kk)
