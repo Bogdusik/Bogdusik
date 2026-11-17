@@ -19,7 +19,7 @@
 
 ## 🛠️ Tech Stack
 
-💻 **Languages:** Python, TypeScript, JavaScript, Java, SQL  
+💻 **Languages:** Python, TypeScript, JavaScript, Java, Swift, SQL  
 ⚛️ **Frontend:** Next.js 15, React, React Three Fiber / Three.js, Tailwind CSS, Zustand  
 ⚙️ **Backend:** FastAPI, SQLAlchemy 2.0 async, Alembic, Spring Boot, Node.js / Express  
 🗄️ **Databases:** PostgreSQL, MySQL, MongoDB, SQLite  
@@ -36,11 +36,37 @@ You are the director; the staff are AI agents running on a local 27B model. Each
 
 ---
 
+### 🚁 Dzhmil – a tiny drone that lives on your Mac
+A native macOS companion: it talks by voice, looks at your screen, flies over and points at the button you need, and controls the Mac with a confirmation before anything risky. Safety lives in code, the conversation history is append-only so prompt caching stays warm, and the drone is drawn in Core Animation at 0.3% CPU. Open source, 293 tests, CI, v0.1.0.
+
+<img src="https://raw.githubusercontent.com/Bogdusik/Dzhmil/main/docs/media/pointer.gif" alt="Dzhmil points at a setting on the screen" width="320">
+
+**🛠️ Stack:** Swift 6, SwiftUI / AppKit, Core Animation, Claude API (tool use), WhisperKit  
+**🔗** [Repo](https://github.com/Bogdusik/Dzhmil) • [Release](https://github.com/Bogdusik/Dzhmil/releases/tag/v0.1.0)
+
+---
+
 ### 🔍 SearchWork – AI Job Tracker
 Personal job tracker for UK graduate roles. Upload your CV → Claude extracts skills → searches Adzuna + Reed → AI scores matches → track applications. Full production deployment.
 
 **🛠️ Stack:** FastAPI, Next.js 14, PostgreSQL, Claude API, Adzuna API, Reed API  
 **🔗** [Repo](https://github.com/Bogdusik/SearchWork) • [Live Demo](https://searchwork-bogdusik.vercel.app)
+
+---
+
+### 💬 Real-Time Chat Application
+Full-stack chat app with real-time messaging via WebSocket (STOMP), user authentication and message persistence.
+
+**🛠️ Stack:** Spring Boot, React, PostgreSQL, WebSocket / STOMP  
+**🔗** [Repo](https://github.com/Bogdusik/Real-Time-Chat-Application)
+
+---
+
+### 🧠 Programming Helper AI
+AI-powered programming assistant – instant explanations, code analysis, structured learning tasks. Honours project at Glasgow Caledonian University (First Class).
+
+**🛠️ Stack:** Next.js, TypeScript, Tailwind CSS, OpenAI API  
+**🔗** [Repo](https://github.com/Bogdusik/Programming-Helper-AI) • [Live Demo](https://programming-helper-ai.vercel.app)
 
 ---
 
@@ -60,22 +86,6 @@ AI-powered QA artifact generator with human-in-the-loop review workflow. Transfo
 
 ---
 
-### 🧠 Programming Helper AI
-AI-powered programming assistant – instant explanations, code analysis, structured learning tasks. Honours project at Glasgow Caledonian University (First Class).
-
-**🛠️ Stack:** Next.js, TypeScript, Tailwind CSS, OpenAI API  
-**🔗** [Repo](https://github.com/Bogdusik/Programming-Helper-AI) • [Live Demo](https://programming-helper-ai.vercel.app)
-
----
-
-### 💬 Real-Time Chat Application
-Full-stack chat app with real-time messaging via WebSocket (STOMP), user authentication and message persistence.
-
-**🛠️ Stack:** Spring Boot, React, PostgreSQL, WebSocket / STOMP  
-**🔗** [Repo](https://github.com/Bogdusik/Real-Time-Chat-Application)
-
----
-
 ### 🖥️ Personal PC Assistant
 Voice-controlled Windows assistant with natural language commands. Everything runs on-device with Faster Whisper + Ollama.
 
@@ -92,10 +102,12 @@ Chrome extension that scans GitHub and GitLab repositories for secret leaks, API
 
 ---
 
+<!-- Writing section hidden until the real HackerNoon links are added:
 ## ✍️ Writing
 
 - [I Built an AI Job Tracker While Job Hunting: The AI Was the Easy Part](ССЫЛКА_НА_СТАТЬЮ_1) – HackerNoon
 - [I Added Every Index, but My Telemetry Pipeline Was Still Quadratic](ССЫЛКА_НА_СТАТЬЮ_2) – HackerNoon, featured on the homepage
+-->
 
 ## 📊 GitHub Analytics
 
