@@ -102,12 +102,12 @@ Chrome extension that scans GitHub and GitLab repositories for secret leaks, API
 
 ---
 
-<!-- Writing section hidden until the real HackerNoon links are added:
 ## ✍️ Writing
 
-- [I Built an AI Job Tracker While Job Hunting: The AI Was the Easy Part](ССЫЛКА_НА_СТАТЬЮ_1) – HackerNoon
-- [I Added Every Index, but My Telemetry Pipeline Was Still Quadratic](ССЫЛКА_НА_СТАТЬЮ_2) – HackerNoon, featured on the homepage
--->
+- [I Built an AI Job Tracker While Job Hunting: The AI Was the Easy Part](https://hackernoon.com/i-built-an-ai-job-tracker-while-job-hunting-the-ai-was-the-easy-part) – HackerNoon
+- [I Added Every Index, but My Telemetry Pipeline Was Still Quadratic](https://hackernoon.com/i-added-every-index-but-my-telemetry-pipeline-was-still-quadratic) – HackerNoon, featured on the homepage
+- [I Built a 3D Office Where Local AI Agents Share One RTX 4090](https://hackernoon.com/i-built-a-3d-office-where-local-ai-agents-share-one-rtx-4090) – HackerNoon
+- [Two Secret Scanners Found 5 of 7 Exposed Credentials Each, but Missed Different Secrets](https://hackernoon.com/two-secret-scanners-found-5-of-7-exposed-credentials-each-but-missed-different-secrets) – HackerNoon
 
 ## 📊 GitHub Analytics
 
