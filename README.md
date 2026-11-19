@@ -150,12 +150,18 @@ focus:     [local LLMs, AI agents with guarded tools, secure backends]
 <h3 align="center"><code>05</code> · telemetry</h3>
 
 <div align="center">
-  <img src="github-metrics.svg" alt="GitHub metrics" width="620">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Bogdusik&show_icons=true&hide_border=true&bg_color=00000000&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9&ring_color=2DD4BF&custom_title=Flight%20log">
+    <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Bogdusik&show_icons=true&hide_border=true&bg_color=00000000&title_color=0E7490&icon_color=0E7490&text_color=1F2328&ring_color=0E7490&custom_title=Flight%20log">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Bogdusik&layout=compact&langs_count=5&hide=html%2Ccss%2Cshell%2Cdockerfile%2Cmustache%2Cpowershell%2Cplpgsql%2Cbatchfile%2Cruby%2Cmako&hide_border=true&bg_color=00000000&title_color=2DD4BF&text_color=C9D1D9&custom_title=Most%20used">
+    <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bogdusik&layout=compact&langs_count=5&hide=html%2Ccss%2Cshell%2Cdockerfile%2Cmustache%2Cpowershell%2Cplpgsql%2Cbatchfile%2Cruby%2Cmako&hide_border=true&bg_color=00000000&title_color=0E7490&text_color=1F2328&custom_title=Most%20used">
+  </picture>
   <br><br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
-    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-gitblue.svg">
-    <img alt="3D contribution calendar" src="profile-3d-contrib/profile-gitblue.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Bogdusik&hide_border=true&background=00000000&ring=2DD4BF&fire=2DD4BF&currStreakNum=F0FDFA&sideNums=F0FDFA&currStreakLabel=2DD4BF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D">
+    <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=Bogdusik&hide_border=true&background=00000000&ring=0E7490&fire=0E7490&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=0E7490&sideLabels=57606A&dates=57606A&stroke=D0D7DE">
   </picture>
 </div>
 
